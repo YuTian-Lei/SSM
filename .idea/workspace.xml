@@ -8,24 +8,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f15ccc6e-795c-4c8b-a9b6-3c4bc82cd58c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/bootstrap.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/ssm.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/ssm.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vivo/control/LoginControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vivo/control/LoginControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vivo/dao/PersonDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vivo/dao/PersonDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vivo/po/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vivo/po/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vivo/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vivo/service/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vivo/service/PersonServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vivo/service/PersonServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/vivo/dao/PersonDaoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/vivo/dao/PersonDaoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vivo/bean/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vivo/test/PersonServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vivo/test/PersonServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/vivo/control/LoginControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vivo/control/LoginControl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/vivo/dao/PersonDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vivo/dao/PersonDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vivo/dao/PersonDaoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vivo/dao/PersonDaoMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/vivo/service/PersonService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vivo/service/PersonService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/vivo/service/PersonServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vivo/service/PersonServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/com/vivo/bean/Person.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/com/vivo/control/LoginControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/com/vivo/control/LoginControl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/com/vivo/dao/PersonDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/com/vivo/dao/PersonDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/com/vivo/dao/PersonDaoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/com/vivo/dao/PersonDaoMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/com/vivo/service/PersonService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/com/vivo/service/PersonService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/com/vivo/service/PersonServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/com/vivo/service/PersonServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/classes/spring-mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-oxm-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-test-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/vivo/test/PersonServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vivo/test/PersonServiceTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -51,21 +83,21 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1114">
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="79">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logs/ssm.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="227">
+              <caret line="260" column="1" lean-forward="true" selection-start-line="260" selection-start-column="1" selection-end-line="260" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -90,24 +122,34 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/vivo/bean/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/com/vivo/dao/PersonDaoMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/vivo/service/PersonService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vivo/service/PersonServices.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vivo/test/PersonServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vivo/service/impl/PersonServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/vivo/dao/PersonDao.java" />
         <option value="$PROJECT_DIR$/src/test/java/PersonServiceTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/logs/ssm.log" />
         <option value="$PROJECT_DIR$/src/test/java/com/vivo/test/PersonTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/vivo/test/PersonServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/vivo/service/PersonServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/vivo/control/LoginControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vivo/service/PersonService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/staff_add.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/staff_list.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/person_edit.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/person_add.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/person_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vivo/dao/PersonDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/edit.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/vivo/dao/PersonDaoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vivo/test/PersonServiceTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/add.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vivo/po/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vivo/control/LoginControl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
       </list>
     </option>
   </component>
@@ -139,11 +181,16 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="ssm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="215" />
     <option name="width" value="1245" />
     <option name="height" value="985" />
@@ -154,12 +201,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
               <item name="ssm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
@@ -194,33 +248,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568038547863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568114561751" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="D:/cmder/vendor/git-for-windows/bin/git.exe" />
@@ -239,22 +276,25 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\webapp" />
+      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\webapp\WEB-INF\static" />
+      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\resources\com\vivo\dao" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.vivo.test" />
       <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\webapp\WEB-INF" />
-      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\resources" />
-      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\webapp" />
-      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\java\com\vivo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.vivo.test" />
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\resources\com\vivo\dao" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\webapp" />
+      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\webapp\static" />
+      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\webapp\WEB-INF" />
+      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\resources" />
+      <recent name="D:\Users\lenovo\IdeaProjects\ssm\src\main\java\com\vivo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -270,7 +310,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.15">
-    <configuration name="PersonServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonServiceTest.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ssm" />
       <extension name="coverage">
         <pattern>
@@ -280,12 +320,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.vivo.test" />
       <option name="MAIN_CLASS_NAME" value="com.vivo.test.PersonServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="addTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonServiceTest.getUserByIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonServiceTest.deleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ssm" />
       <extension name="coverage">
         <pattern>
@@ -295,7 +336,55 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.vivo.test" />
       <option name="MAIN_CLASS_NAME" value="com.vivo.test.PersonServiceTest" />
-      <option name="METHOD_NAME" value="getUserByIdTest" />
+      <option name="METHOD_NAME" value="deleteTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonServiceTest.findallTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vivo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vivo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.vivo.test.PersonServiceTest" />
+      <option name="METHOD_NAME" value="findallTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonServiceTest.selectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vivo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vivo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.vivo.test.PersonServiceTest" />
+      <option name="METHOD_NAME" value="selectTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonServiceTest.updateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vivo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vivo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.vivo.test.PersonServiceTest" />
+      <option name="METHOD_NAME" value="updateTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -380,14 +469,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.PersonServiceTest.getUserByIdTest" />
-      <item itemvalue="JUnit.PersonServiceTest" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.15" />
+      <item itemvalue="JUnit.PersonServiceTest.findallTest" />
+      <item itemvalue="JUnit.PersonServiceTest.deleteTest" />
+      <item itemvalue="JUnit.PersonServiceTest.addTest" />
+      <item itemvalue="JUnit.PersonServiceTest.updateTest" />
+      <item itemvalue="JUnit.PersonServiceTest.selectTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PersonServiceTest.getUserByIdTest" />
-        <item itemvalue="JUnit.PersonServiceTest" />
+        <item itemvalue="JUnit.PersonServiceTest.findallTest" />
+        <item itemvalue="JUnit.PersonServiceTest.addTest" />
+        <item itemvalue="JUnit.PersonServiceTest.deleteTest" />
+        <item itemvalue="JUnit.PersonServiceTest.updateTest" />
+        <item itemvalue="JUnit.PersonServiceTest.selectTest" />
       </list>
     </recent_temporary>
   </component>
@@ -408,47 +503,51 @@
       <workItem from="1567962319558" duration="383000" />
       <workItem from="1567992216304" duration="519000" />
       <workItem from="1568019350639" duration="8506000" />
+      <workItem from="1568038557015" duration="141000" />
+      <workItem from="1568038973411" duration="137000" />
+      <workItem from="1568039147447" duration="319000" />
+      <workItem from="1568039469109" duration="808000" />
+      <workItem from="1568083775133" duration="16173000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PersonServiceTest - 2019.09.08 at 21h 05m 02s.xml">
-      <configuration name="PersonServiceTest" configurationId="JUnit" />
+    <history-entry file="PersonServiceTest_findallTest - 2019.09.10 at 15h 01m 52s.xml">
+      <configuration name="PersonServiceTest.findallTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonServiceTest - 2019.09.08 at 21h 06m 16s.xml">
-      <configuration name="PersonServiceTest" configurationId="JUnit" />
+    <history-entry file="PersonServiceTest_updateTest - 2019.09.10 at 15h 02m 04s.xml">
+      <configuration name="PersonServiceTest.updateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonServiceTest - 2019.09.08 at 22h 18m 32s.xml">
-      <configuration name="PersonServiceTest" configurationId="JUnit" />
+    <history-entry file="PersonServiceTest_findallTest - 2019.09.10 at 15h 02m 16s.xml">
+      <configuration name="PersonServiceTest.findallTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonServiceTest_getUserByIdTest - 2019.09.08 at 22h 21m 38s.xml">
-      <configuration name="PersonServiceTest.getUserByIdTest" configurationId="JUnit" />
+    <history-entry file="PersonServiceTest_deleteTest - 2019.09.10 at 15h 02m 39s.xml">
+      <configuration name="PersonServiceTest.deleteTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonServiceTest_getUserByIdTest - 2019.09.08 at 22h 22m 53s.xml">
-      <configuration name="PersonServiceTest.getUserByIdTest" configurationId="JUnit" />
+    <history-entry file="PersonServiceTest_deleteTest - 2019.09.10 at 15h 23m 29s.xml">
+      <configuration name="PersonServiceTest.deleteTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonServiceTest_getUserByIdTest - 2019.09.08 at 22h 58m 50s.xml">
-      <configuration name="PersonServiceTest.getUserByIdTest" configurationId="JUnit" />
+    <history-entry file="PersonServiceTest_addTest - 2019.09.10 at 17h 31m 16s.xml">
+      <configuration name="PersonServiceTest.addTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonServiceTest - 2019.09.08 at 23h 01m 48s.xml">
-      <configuration name="PersonServiceTest" configurationId="JUnit" />
+    <history-entry file="PersonServiceTest_findallTest - 2019.09.10 at 17h 31m 48s.xml">
+      <configuration name="PersonServiceTest.findallTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonServiceTest - 2019.09.08 at 23h 08m 06s.xml">
-      <configuration name="PersonServiceTest" configurationId="JUnit" />
+    <history-entry file="PersonServiceTest_addTest - 2019.09.10 at 17h 32m 42s.xml">
+      <configuration name="PersonServiceTest.addTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonServiceTest_getUserByIdTest - 2019.09.08 at 23h 11m 25s.xml">
-      <configuration name="PersonServiceTest.getUserByIdTest" configurationId="JUnit" />
+    <history-entry file="PersonServiceTest_findallTest - 2019.09.10 at 17h 32m 56s.xml">
+      <configuration name="PersonServiceTest.findallTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonServiceTest_getUserByIdTest - 2019.09.08 at 23h 13m 44s.xml">
-      <configuration name="PersonServiceTest.getUserByIdTest" configurationId="JUnit" />
+    <history-entry file="PersonServiceTest_findallTest - 2019.09.10 at 17h 33m 54s.xml">
+      <configuration name="PersonServiceTest.findallTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28147000" />
+    <option name="totallyTimeSpent" value="45725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -456,21 +555,21 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.29423591" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.31434315" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32627118" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3036723" />
-      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32863188" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.23728813" />
       <window_info anchor="bottom" id="Message" order="9" />
-      <window_info anchor="bottom" id="Find" order="10" weight="0.32863188" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.41525424" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.39915374" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32768363" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" visible="true" weight="0.42231637" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.3983051" />
       <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="15" />
@@ -497,102 +596,34 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/vivo/test/PersonServiceTest.java</url>
           <line>25</line>
-          <properties class="com.vivo.test.PersonServiceTest" method="getUserByIdTest">
+          <properties class="com.vivo.test.PersonServiceTest">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/vivo/test/PersonServiceTest.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/vivo/dao/PersonDaoMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vivo/test/PersonServiceTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/PersonServiceTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/ssm.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vivo/po/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/vivo/test/PersonTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vivo/service/PersonService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/vivo/test/PersonServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vivo/service/PersonServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="80" column="24" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
-          <folding>
-            <element signature="e#1281#1306#0" expanded="true" />
-            <element signature="e#1345#1358#0" expanded="true" />
-            <element signature="e#1402#1420#0" expanded="true" />
-            <element signature="e#1464#1482#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -604,44 +635,171 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vivo/control/LoginControl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vivo/service/PersonService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        <state relative-caret-position="190">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vivo/service/PersonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/person_edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/staff_detail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/person_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/person_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vivo/dao/PersonDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="117">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        <state relative-caret-position="57">
+          <caret line="3" column="88" lean-forward="true" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/vivo/dao/PersonDaoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/vivo/test/PersonServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="55" column="56" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vivo/po/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vivo/control/LoginControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="79">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/logs/ssm.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1114">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="227">
+          <caret line="260" column="1" lean-forward="true" selection-start-line="260" selection-start-column="1" selection-end-line="260" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -1,23 +1,13 @@
 package com.vivo.po;
 
-public class Person {  
+public class Person {
     private int id;  
       
     private String password;  
       
     private String name;  
       
-    public Person(){  
-          
-    }  
-  
-    public Person(int id, String password, String name) {  
-        super();  
-        this.id = id;  
-        this.password = password;  
-        this.name = name;  
-    }  
-  
+
     public int getId() {  
         return id;  
     }  

@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" ?>  
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >  
 <mapper namespace="com.vivo.dao.PersonDao" >
-  <select id="findall" resultType="Person">
-     select * from person  
-  </select>     
+
+    <!-- 添加用户 -->
+    <insert id="addPerson" parameterType="Person" useGeneratedKeys="true" keyProperty="id">
+        insert into person(password,name) values(#{password},#{name})
+    </insert>
+
+    <!-- 删除用户 -->
+    <delete id="deletePerson" parameterType="Integer">
+        delete from person where id=#{id}
+    </delete>
+
+    <!-- 修改用户-->
+    <update id="updatePerson" parameterType="Person">
+        update person set password=#{password},name=#{name} where id=#{id}
+    </update>
+
+    <!-- 查找用户 -->
+    <select id="getByid"  parameterType="Integer" resultType="Person">
+     select * from person where id = #{id}
+  </select>
+
+    <!-- 查找所有用户 -->
+    <select id="findall" resultType="Person">
+     select * from person
+  </select>
 </mapper>

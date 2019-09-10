@@ -5,7 +5,7 @@
          version="3.0">
 
   <welcome-file-list>
-    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>add.jsp</welcome-file>
   </welcome-file-list>
 
   <!--applicationContext.xml是全局的，应用于多个serverlet，配合listener一起使用-->
@@ -41,6 +41,16 @@
     <filter-name>encodingFilter</filter-name>
     <url-pattern>/*</url-pattern>
   </filter-mapping>
+  
+  <!--实现RESTful风格，配置过滤器-->
+  <filter>
+    <filter-name>hiddenHttpMethodFilter</filter-name>
+    <filter-class>org.springframework.web.filter.HiddenHttpMethodFilter</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>hiddenHttpMethodFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
 
   <!-- Spring MVC 核心控制器 DispatcherServlet 配置开始 -->
   <!--配置springmvc DispatcherServlet-->
@@ -58,9 +68,11 @@
     <async-supported>true</async-supported>
   </servlet>
 
+
   <!-- 拦截设置 -->
   <servlet-mapping>
     <servlet-name>dispatcherServlet</servlet-name>
+    <!--Servlet拦截匹配规则可以自已定义，当映射为@RequestMapping("/user/add")时，为例,拦截哪种URL合适？ -->
     <!--1、拦截*.do、*.htm， 例如：/user/add.do,这是最传统的方式，最简单也最实用。不会导致静态文件（jpg,js,css）被拦截。 -->
     <!--2、拦截/，例如：/user/add,可以实现现在很流行的RESTful风格。很多互联网类型的应用很喜欢这种风格的URL。
            弊端：会导致静态文件（jpg,js,css）被拦截后不能正常显示。 -->
@@ -69,9 +81,9 @@
   <!-- Spring MVC 核心配置结束 -->
 
   <!-- 第一种静态文件映射方式，激活Tomcat的defaultServlet来处理静态文件 -->
-  <servlet-mapping>
+   <servlet-mapping>
     <servlet-name>default</servlet-name>
-    <url-pattern>/static/*</url-pattern>
+    <url-pattern>/static/**</url-pattern>
   </servlet-mapping>
 
   <!-- session 超时时间(分钟) -->

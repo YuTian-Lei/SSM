@@ -20,15 +20,15 @@
     <!-- 配置MVC注解扫描,相当于同时配置了HandlerMapping和Controller-->
     <mvc:annotation-driven/>
 
-    <!--第二种静态文件映射方式-->
-    <!--<mvc:default-servlet-handler/>-->
+    <!--第一种静态文件映射方式，搭配web.xml配置-->
+    <mvc:default-servlet-handler/>
 
-    <!-- 第三种静态文件映射方式 -->
-    <!--<mvc:resources location="/static/" mapping="/static/*"/>-->
+    <!-- 第二种静态文件映射方式 -->
+    <!--<mvc:resources location="/static/css/" mapping="/css/**"/>-->
 
     <!-- 视图解析器 -->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/"/> <!-- 前缀 -->
-        <property name="suffix" value=".jsp"/>        <!-- 后缀 -->
+        <property name="suffix" value=".jsp"/><!-- 后缀 -->
     </bean>
 </beans>

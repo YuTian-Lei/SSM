@@ -13,6 +13,23 @@ public class PersonServiceImpl implements PersonService {
     private PersonDao personDao;
 
     public List<Person> findAll() {
-       return personDao.findall();
+        return personDao.findall();
     }
+
+    public  void addPerson(Person person){
+         personDao.addPerson(person);
+    }
+
+    public void  deletePerson(Integer id){
+        personDao.deletePerson(id);
+    }
+
+    public Person getByid(Integer id){
+        return  personDao.getByid(id);
+    }
+
+    public void updatePerson(Person person){
+        personDao.updatePerson(person);
+    }
+
 }
