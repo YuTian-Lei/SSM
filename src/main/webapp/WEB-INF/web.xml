@@ -5,7 +5,7 @@
          version="3.0">
 
   <welcome-file-list>
-    <welcome-file>add.jsp</welcome-file>
+    <welcome-file>login.jsp</welcome-file>
   </welcome-file-list>
 
   <!--applicationContext.xml是全局的，应用于多个serverlet，配合listener一起使用-->
@@ -67,7 +67,6 @@
     <!--设置是否启用异步支持-->
     <async-supported>true</async-supported>
   </servlet>
-
 
   <!-- 拦截设置 -->
   <servlet-mapping>
