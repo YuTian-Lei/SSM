@@ -16,6 +16,14 @@ public class PersonController {
     @Resource(name = "personService")
     private PersonService personService;
 
+
+    @RequestMapping("toAdd")
+    public  ModelAndView toAdd(){
+        ModelAndView modelAndView = new ModelAndView();
+        modelAndView.setViewName("person/add");
+        return  modelAndView;
+    }
+
     @PostMapping(value = "/add")
     public  String addPerson(Person person){
         personService.addPerson(person);

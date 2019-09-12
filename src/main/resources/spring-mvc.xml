@@ -26,7 +26,7 @@
 
     <!-- 视图解析器 -->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
-        <property name="prefix" value="/"/> <!-- 前缀 -->
+        <property name="prefix" value="/WEB-INF/pages/"/> <!-- 前缀 -->
         <property name="suffix" value=".jsp"/><!-- 后缀 -->
     </bean>
 

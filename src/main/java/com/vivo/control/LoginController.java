@@ -24,4 +24,11 @@ public class LoginController {
         }
         return  "redirect:login.jsp";
     }
+
+    @RequestMapping("index")
+    public  ModelAndView toLogin(){
+        ModelAndView modelAndView = new ModelAndView();
+        modelAndView.setViewName("login");
+        return  modelAndView;
+    }
 }
